@@ -1,8 +1,14 @@
-.DS_Store
+# The GitHub repo is PUBLIC. Only the website files below are ever uploaded.
+# Everything else in this folder (Word CV, backups, session records, notes,
+# CLAUDE.md) stays on this computer only.
 
-# Private: Word CV contains phone number and references. Never publish.
-cv/
-~$*
-CLAUDE.md
-.venv/
-How to update my CV.md
+# Ignore everything...
+/*
+
+# ...except the website itself
+!/index.html
+!/styles.css
+!/photo.jpeg
+!/CNAME
+!/.nojekyll
+!/.gitignore
