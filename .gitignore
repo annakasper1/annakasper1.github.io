@@ -1,1 +1,6 @@
 .DS_Store
+
+# Private: Word CV contains phone number and references. Never publish.
+cv/
+~$*
+CLAUDE.md
